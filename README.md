@@ -1,4 +1,4 @@
-# automated-teller-machine
+# Automated Teller Machine in Brussels
 
 Analysing ATM locations in Brussel.
 
